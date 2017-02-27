@@ -1,0 +1,17 @@
+{
+  "name": "knotes",
+  "version": "1.0.0",
+  "description": "notes app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "notes",
+    "simple",
+    "minimal",
+    "tasks"
+  ],
+  "author": "kaustubh walokar",
+  "license": "MIT"
+}

@@ -13,5 +13,9 @@
     "tasks"
   ],
   "author": "kaustubh walokar",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaustubh-walokar/knotes.git"
+  }
 }
